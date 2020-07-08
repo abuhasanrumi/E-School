@@ -258,6 +258,7 @@ footer.footer-area {
 }
 .footer-text p {
     line-height: 30px;
+    padding-bottom: 20px;
 }
 footer.footer-area p {
     margin: 0;
