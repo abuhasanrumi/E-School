@@ -1,0 +1,268 @@
+/* ===========================
+Basic CSS Setting Starts Here
+============================ */
+
+* {
+    transition: .5s all ease-in-out;
+}
+
+body {
+    font-family: 'Poppins', ;
+}
+
+.section-padding {
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+/* ===========================
+Basic CSS Setting Ends Here
+============================ */
+
+
+
+
+
+
+/* =====================
+Header Area Starts Here
+====================== */
+header.header-area {
+    background: #F0FFF0;
+}
+
+
+/* Nav Area  Starts*/
+img.logo {
+    width: 198px;
+    height: auto;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    margin: 0 10px;
+    font-weight: 500;
+}
+.green-btn {
+    background: #21B573;
+    border-radius: 33px;
+    padding: 12px 28px !important;
+}
+section.nav-area {
+    background: #F0FFF0 !important;
+}
+nav.navbar {
+    background: #F0FFF0;
+}
+
+/* Nav Area Ends */
+
+
+/* Hero Area Starts */
+.hero-text h2 {
+    font-size: 48px;
+    line-height: 70px;
+}
+p.hero-normal-text {
+    color: #6C6B6B;
+    line-height: 36px;
+    margin: 20px 0;
+}
+span.green-text {
+    color: #21B573;
+}
+.get-started-btn {
+    background: #21B573;
+    border-radius: 33px;
+    padding: 12px 36px;
+    margin: 10px 0;
+    font-weight: 600;
+}
+p.hero-orange-txt {
+    color: #FD511A;
+    font-weight: 500;
+}
+section.hero-area {
+    padding-top: 100px;
+}
+/* Hero Area Ends */
+
+
+/* ===================
+Header Area Ends Here
+==================== */
+
+
+
+
+
+
+/* ========================
+Speciality Area Starts Here
+======================== */
+p.topic {
+    color: #413960;
+    font-weight: 600;
+    font-size: 24px;
+    padding-top: 15px;
+    margin: 0;
+}
+
+p.speciality-description {
+    color: #585859;
+    margin: 0;
+    padding: 0;
+}
+
+.single-speciality img {
+    margin: 10px;
+}
+.single-speciality {
+    background: #F0FFF0;
+    min-height: 270px;
+    border-radius: 10px;
+}
+.single-speciality:hover {
+    box-shadow: 0px 8px 25px 5px #F3F3F3;
+    background: #fff;
+    cursor: pointer;
+}
+.mb-5, .my-5 {
+    margin-bottom: 0rem !important;
+}
+/* =======================
+Speciality Area Ends Here
+======================= */
+
+
+
+
+
+/* ====================
+Course Area Starts Here
+==================== */
+
+h2.section-title {
+    color: #413960;
+    font-size: 36px;
+    font-weight: 700;
+    padding: 25px 0;
+}
+h5.card-title {
+    font-size: 24px;
+    font-weight: 500;
+    color: #413960;
+}
+p.card-text {
+    color: #585859;
+}
+a.course-btn {
+    text-decoration: none;
+    background: #21B573;
+    border-radius: 33px;
+    padding: 8px 28px;
+    margin: 5px 0;
+    font-weight: 600;
+    display: inline-block;
+}
+img.card-img-top {
+    border-radius: 11px;
+}
+
+.card {
+    border-radius: 18px;
+    border: none;
+    padding: 20px;
+    box-shadow: 0px 8px 25px 5px #F3F3F3;
+}
+.card-body {
+    padding: 0;
+    padding-top: 1.25rem;
+}
+.card-footer {
+    background: none;
+    border: none;
+    padding: 0;
+    color: #585859;
+    padding-top: 15px;
+}
+.card-footer img {
+    width: 24px;
+}
+.card-footer small {
+    font-weight: 500;
+    padding-left: 6px;
+}
+/* ==================
+Course Area Ends Here
+================== */
+
+
+
+
+
+
+/* =========================
+Testimonial Area Starts Here
+========================== */
+.testimonial-img img {
+    width: 120px;
+    margin: 20px 0;
+}
+.testimonial-text {
+    line-height: 30px;
+}
+.carousel-item {
+    padding: 50px 0;
+}
+.testimonial-text p {
+    margin: 0;
+    padding: 0;
+}
+/* =========================
+Testimonial Area Ends Here
+========================== */
+
+
+
+
+
+
+/* =====================
+Footer Area Starts Here
+===================== */
+footer.footer-area {
+    background: #282531;
+}
+.footer-wrap {
+
+    padding: 50px 0;
+}
+
+.footer-area ul li a {
+    color: #fff;
+    line-height: 30px;
+    text-decoration: none;
+}
+.footer-text p {
+    line-height: 30px;
+}
+footer.footer-area p {
+    margin: 0;
+}
+
+/* =====================
+Footer Area Ends Here
+===================== */
