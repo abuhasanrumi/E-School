@@ -1,0 +1,10 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 500px) {
+    .hero-text h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    p.hero-normal-text {
+        line-height: 26px;
+    }
+}
